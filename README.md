@@ -1,11 +1,11 @@
 ### Hi there, I'm Mazen 👋
 
-## I'm a Self-Taught Developer, and Life-Long Learner!
+## I'm a Software Developer, and Life-Long Learner!
 
-- 🔭 I’m currently working on [Full Stack Development][website] projects!
-- 👯 I’m looking to collaborate with other software creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love hiking and photography
+- 🔭 Currently working on [Full Stack Development][website] projects!
+- 👯 Looking to collaborate with other software creators
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Today, I'm 1% better than I was yesterday
 
 ### Connect with me:
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos 🚧 **_COMING SOON_** 🚧
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Responsive Mega Menu and Multi Level Dropdown | Animations | HTML, CSS, & JavaScript Tutorial (2020)](https://www.youtube.com/watch?v=8qO5QmD5gfM)
@@ -65,7 +65,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mazen-elba&show_icons=true&hide_border=true" />
 
-[website]: https://mazen-elba.github.io/my_portfolio
+[website]: http://mazen-elba.com
 [twitter]: https://twitter.com/mazen_elba
 
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
