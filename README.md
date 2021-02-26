@@ -37,10 +37,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📊 **This Week I Spent My Time On:**
 
-<div align="left">
 <a href="https://github.com/mazene-lba/mazen-elba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-elba&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-elba&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mazen-elba&show_icons=true&theme=gotham" alt="mazen-elba" />
-</div>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mazen-elba&show_icons=true&theme=gotham" alt="mazen-elba" />
