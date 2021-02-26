@@ -13,14 +13,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```javascript
 const Mazen = {
     pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "C/C++", "Java"],
+    code: ["Python", "SQL", "NoSQL", "JavaScript", "C/C++", "Java"],
     askMeAbout: ["data engineering", "machine learning", "deep learning", "distributed system"],
     technologies: {
         backEnd: ["Django", "Nodejs", "Express.js", "NPM"],
         databases: ["PostgresSQL", "MySQL", "MongoDB", "Oracle Server"],
         bigData: ["Spark", "Cassandra", "Amazon EMR"],
-        cloud: ["AWS S3"],
-        machineLearning: ["
+        cloud: ["Amazon S3", "HDFS"],
+        machineLearning: ["OpenCV", "SpaCy"],
         deepLearning: ["PyTorch", "TensorFlow"],
         testing: ["PyTest", "Selenium", "Mocha"],
         microserver: ["Docker", "Kubernetes"],
