@@ -12,7 +12,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
   [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazen-elba/)](https://www.linkedin.com/in/mazen-elba/)
   [![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazen.elba@gmail.com)](mailto:mazen.elba@gmail.com)
-  [![Twitter Badge](https://img.shields.io/badge/-?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mazen_elba "Follow on Twitter")
+  [![Twitter Badge](https://img.shields.io/badge/-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mazen_elba "Follow on Twitter")
 </div>
 <br>
 
