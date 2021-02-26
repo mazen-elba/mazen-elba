@@ -36,15 +36,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          5 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   41.95 % 
-JavaScript   4 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.31 % 
-Python       2 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-<!--END_SECTION:waka-->
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mazen-elba&show_icons=true&theme=gotham" alt="mazen-elba" />
