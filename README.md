@@ -7,6 +7,7 @@ I am a Data Engineer with Software Backend Development background. My passion fo
 <p>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.  
 </p>
+<br>
 
 ### A little more about me...
 ```javascript
@@ -31,7 +32,7 @@ const Mazen = {
 ```
 <br>
 
-### Quick stats about me
+### Quick stats...
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Mazen's github stats](https://github-readme-stats.vercel.app/api?username=mazen-elba&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Mazen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-elba&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
