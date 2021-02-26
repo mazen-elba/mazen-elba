@@ -15,7 +15,7 @@ Hi, I'm Mazen Abdelbasir, a passionate self-taught Data Engineer with Software B
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@mazen_elba](https://twitter.com/mazen_elba)
@@ -38,7 +38,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 
 <a href="https://github.com/mazene-lba/mazen-elba">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-elba&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-elba&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mazen-elba&show_icons=true&theme=gotham" alt="mazen-elba" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mazen-elba&show_icons=true&theme=gotham" alt="mazen-elba" />
