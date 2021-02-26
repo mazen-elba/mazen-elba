@@ -10,28 +10,28 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazen-elba/)](https://www.linkedin.com/in/mazen-elba/)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazen.elba@gmail.com)](mailto:mazen.elba@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-mazen-elba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazen-elba/)](https://www.linkedin.com/in/mazen-elba/)
+  [![Gmail Badge](https://img.shields.io/badge/-mazen.elba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazen.elba@gmail.com)](mailto:mazen.elba@gmail.com)
 </div>
 <br>
 
 <h3>How I'd define myself...</h3>
 ```python3
 class Mazen:
-def __init__(self, name, work, education, hobbies):
-self.name = "Mazen Abdelbasir"
-self.work = ["Wells Fargo", "Freelance"]
-self.education = ["Artizona State University", "KCU of Medicine & Biosciences"]
-self.hobbies = ["hiking", "soccer", "rugby", "cycling"]
+  def __init__(self, name, work, education, hobbies):
+    self.name = "Mazen Abdelbasir"
+    self.work = ["Wells Fargo", "Freelance"]
+    self.education = ["Artizona State University", "KCU of Medicine & Biosciences"]
+    self.hobbies = ["hiking", "soccer", "rugby", "cycling"]
    
-def current_location(self):
-return "Charlotte, North Carolina, USA"
+  def current_location(self):
+    return "Charlotte, North Carolina, USA"
     
-def next_location(self):
-return "TBD"
+  def next_location(self):
+    return "TBD"
       
-def current_project(self):
-return "Machine Learning-based Data Labeling application"
+  def current_project(self):
+    return "Machine Learning-based Data Labeling application"
 ```
 
 ### What I always play with...
