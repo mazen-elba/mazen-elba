@@ -9,8 +9,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
   
 <div align="center">
-  <a href="https://twitter.com/mazen_elba" target="_blank"><img height="42px" src="https://raw.githubusercontent.com/mazen_elba/mazen_elba/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mazen-elba/" target="_blank"><img height="42px" src="https://raw.githubusercontent.com/mazen-elba/mazen-elba/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/mazen_elba" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mazen-elba/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazen-elba/)](https://www.linkedin.com/in/mazen-elba/)
   [![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazen.elba@gmail.com)](mailto:mazen.elba@gmail.com)
