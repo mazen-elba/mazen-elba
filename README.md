@@ -20,7 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### What I always play with...
 <p> 
-  <img height="42px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg" alt="python-logo">
+  <img height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python-logo">
   <img height="42px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg" alt="c-logo">
   <img height="42px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" alt="cpp-logo">
   <img height="42px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg" alt="js-logo">
