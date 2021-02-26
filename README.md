@@ -14,7 +14,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 const Mazen = {
     pronouns: "He" | "Him",
     code: ["Python", "JavaScript", "C/C++", "Java"],
-    askMeAbout: ["data engineering", "machine learning", "deep learning", "distributed system", "microservice"],
+    askMeAbout: ["data engineering", "machine learning", "deep learning", "distributed system"],
     technologies: {
         backEnd: ["Django", "Nodejs", "Express.js", "NPM"],
         databases: ["PostgresSQL", "MySQL", "MongoDB", "Oracle Server"],
