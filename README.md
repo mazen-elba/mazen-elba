@@ -20,12 +20,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### What I always play with...
 <p> 
-  <img height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg" alt="python-logo">
-  <img height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg" alt="c-logo">
-  <img height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" alt="cpp-logo">
-  <img height="30" src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img height="30" src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo">
-  <img height="30" src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
+  <img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg" alt="python-logo">
+  <img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg" alt="c-logo">
+  <img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" alt="cpp-logo">
+  <img height="40" src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
+  <img height="40" src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo">
+  <img height="40" src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
 </p>
 
 <br>
