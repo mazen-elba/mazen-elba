@@ -10,29 +10,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-mazen-elba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazen-elba/)](https://www.linkedin.com/in/mazen-elba/)
+  [![Linkedin Badge](https://img.shields.io/badge/-mazenelba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazen-elba/)](https://www.linkedin.com/in/mazen-elba/)
   [![Gmail Badge](https://img.shields.io/badge/-mazen.elba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazen.elba@gmail.com)](mailto:mazen.elba@gmail.com)
 </div>
 <br>
 
 <h3>How I'd define myself...</h3>
-```python3
-  class Mazen
-    def initialize(name, work, education, hobbies):
-      name = "Mazen Abdelbasir"
-      work = ["Wells Fargo", "Freelance"]
-      education = ["Artizona State University", "KCU of Medicine & Biosciences"]
-      hobbies = ["hiking", "soccer", "rugby", "cycling"]
-   
-    def current_location():
-      "Charlotte, North Carolina, USA"
-      
-    def next_location():
-      "TBD"
-      
-    def current_project():
-      "Machine Learning-based Data Labeling application"
-```
+
 
 ### What I always play with...
 <p> 
