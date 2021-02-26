@@ -17,8 +17,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@mazen_elba](https://twitter.com/mazen_elba);
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@mazen_elba](https://twitter.com/mazen_elba)
 - 📝 [Resume](https://drive.google.com/file/d/1sSeAlg8MNxyVb4IbdrajEU9Fk2QPEXbS/view)
 
 
