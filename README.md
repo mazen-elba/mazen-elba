@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 
 <h3>How I'd define myself...</h3>
-```
+```py
 class Mazen:
    def __init__(self, name, work, education, hobbies):
        self.name = "Mazen Abdelbasir"
