@@ -20,10 +20,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### What I always play with...
 <p> 
-  <img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg">
-  <img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg">
-  <img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg">
-  <img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg">
+  <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg" alt="python-logo">
+  <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg" alt="c-logo">
+  <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" alt="cpp-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
