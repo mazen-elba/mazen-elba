@@ -13,18 +13,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```javascript
 const Mazen = {
     pronouns: "He" | "Him",
-    code: ["Python", "SQL", "NoSQL", "JavaScript", "C/C++", "Java"],
+    code: ["JavaScript", "SQL", "NoSQL", "Python" "C/C++", "Java"],
     askMeAbout: ["data engineering", "machine learning", "deep learning", "distributed system"],
     technologies: {
-        backEnd: ["Django", "Nodejs", "Express.js", "NPM"],
-        databases: ["PostgresSQL", "MySQL", "MongoDB", "Oracle Server"],
-        bigData: ["Spark", "Cassandra", "Amazon EMR"],
-        cloud: ["Amazon S3", "HDFS"],
-        machineLearning: ["OpenCV", "SpaCy"],
-        deepLearning: ["PyTorch", "TensorFlow"],
+        backend: ["Node.js", "Express.js", "Django"],
+        database: {
+            SQL: ["PostgreSQL", MySQL"],
+            NoSQL: ["MongoDB", "Redis", "Cassandra"]
+        },
+        bigData: ["Amazon EMR", "Apache Spark"],
+        cloud: ["Amazon S3"],
+        machineLearning: ["TensorFlow", "PyTorch", "OpenCV", "SpaCy", "NLTK"],
         testing: ["PyTest", "Selenium", "Mocha"],
-        microserver: ["Docker", "Kubernetes"],
-        CICD: ["Git/GitHub", "Jira", "Maven", "Jenkins"]
+        versioning: ["Git/GitHub"],
+        requirements/design: ["Jira", "Confluence"],
+        build/CI: ["Jenkins", "Maven"]
     },
     architecture: ["Cloud Native", "Distributed system"],
     currentFocus: "Applying Machine Learning models to Data Labeling projects",
