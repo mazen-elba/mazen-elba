@@ -2,7 +2,7 @@
 
 <p align="center">
 
-I am a Data Engineer with a background as a Backend Developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am a Software Developer (Back-End | NodeJS) with a background in Biomedical Science. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </P>
 <p>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.  
@@ -13,8 +13,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```javascript
 const Mazen = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "SQL", "NoSQL", "Python" "C/C++", "Java"],
-    askMeAbout: ["data engineering", "machine learning", "deep learning", "distributed system"],
+    code: ["JavaScript", "Python", "C/C++"],
+    askMeAbout: ["backend development", "data engineering", "machine learning", "distributed system"],
     technologies: {
         backend: ["Node.js", "Express.js", "Django"],
         database: {
@@ -23,14 +23,14 @@ const Mazen = {
         },
         bigData: ["Amazon EMR", "Apache Spark"],
         cloud: ["Amazon S3"],
-        machineLearning: ["TensorFlow", "PyTorch", "OpenCV", "SpaCy", "NLTK"],
-        testing: ["PyTest", "Selenium", "Mocha"],
-        versioning: ["Git/GitHub"],
+        machineLearning: ["TensorFlow", "OpenCV"],
+        testing: ["Jest", "Mocha", "Chai", "Selenium"],
+        versioning: ["Git/GitHub", "SVN"],
         requirements/design: ["Jira", "Confluence"],
         build/CI: ["Jenkins", "Maven"]
     },
-    architecture: ["Cloud Native", "Distributed system"],
-    currentFocus: "Applying Machine Learning models to Data Labeling projects",
+    architecture: ["Microservice", "Cloud Native", "Distributed system"],
+    currentFocus: "Architecting Data Pipelines and Feature Engineering Data to Implement into Machine Learning projects",
 };
 ```
 <br>
